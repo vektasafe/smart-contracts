@@ -33,7 +33,7 @@ Each contract lives in its own folder containing the Solidity file and a dedicat
 
 ## Purpose
 
-These contracts are learning artefacts built to develop and demonstrate understanding of Solidity patterns, common vulnerability classes, and secure contract design. Part of the Vektasafe Web3 security portfolio at github.com/vektasafe-dev.
+These contracts are learning artefacts built to develop and demonstrate understanding of Solidity patterns, common vulnerability classes, and secure contract design. Part of the Vektasafe Web3 security portfolio at github.com/vektasafe.
 
 ---
 
